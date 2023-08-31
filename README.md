@@ -2,7 +2,7 @@
 Data Modeling and SQL challenge
 
 **Data Modeling**
-Data modeling based on files attached in Resources and ERD using software QuickDBD
+Data modeling based on files attached in Data folder and ERD using software QuickDBD
 
 **Data Analysis includes:**
   
